@@ -7,8 +7,7 @@
 -    ⭐ EMAIL: ary7sharma@gmail.com
 -    ⭐ INSTAGRAM: ferr.ary7
 
-- 🦖 My, Holopin Board : (https://holopin.me/ferrary7)](https://holopin.io/@ferrary7)
-
+- 🦖 My, Holopin Board : [![@ferrary7's Holopin board](https://holopin.me/ferrary7)](https://holopin.io/@ferrary7)
 
 
 <!---
