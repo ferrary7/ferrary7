@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Aryan Sharma (@ferrary7)
+- 👋 Hi, I’m Aryan Sharma (https://github.com/ferrary7)
 - 👀 I’m an aspiring Fullstack Developer.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on projects that involve more of Frontend Developing.
 - 📫 Wanna reach me ???? =>
 -    ⭐ LINKEDIN: www.linkedin.com/in/ferrary7 
 -    ⭐ EMAIL: ary7sharma@gmail.com
--    ⭐ INSTAGRAM: ferr.ary7
+-    ⭐ INSTAGRAM: [ferr.ary7](https://www.instagram.com/ferr.ary7/)
 
 - 🦖 My, Holopin Board : [![@ferrary7's Holopin board](https://holopin.me/ferrary7)](https://holopin.io/@ferrary7)
 
