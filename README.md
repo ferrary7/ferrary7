@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferrary7](https://github.com/ferrary7)
 
-- 📫 How to reach me **  ⭐ LINKEDIN: www.linkedin.com/in/ferrary7 <br>
-                         ⭐EMAIL: ary7sharma@gmail.com <br>
-                         ⭐ INSTAGRAM: [ferr.ary7](https://www.instagram.com/ferr.ary7/) **
+- 📫 How to reach me **<br>⭐LINKEDIN: www.linkedin.com/in/ferrary7 <br>
+                       ⭐EMAIL: ary7sharma@gmail.com <br>
+                        ⭐ INSTAGRAM: [ferr.ary7](https://www.instagram.com/ferr.ary7/)**
 
 - ⚡ Fun fact: **I think I am verrryyyy funnny 😁.**
 
